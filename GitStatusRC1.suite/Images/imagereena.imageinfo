@@ -8,6 +8,7 @@
     HasAlpha = 1;
     HotSpotX = 25;
     HotSpotY = 0;
+    ImageDescription = <>;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 176;
