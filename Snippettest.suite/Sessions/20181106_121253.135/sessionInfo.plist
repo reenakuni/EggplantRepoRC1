@@ -1,0 +1,9 @@
+{
+    adaptiveConstant = <*I7>;
+    commandList = "[{captureRect:[6, 619, 83, 635], elementName:\"Carrier9\", eventNum:2, folderPath:\"\", hotSpot:[34.64693, 15], imageName:\"Carrier9\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", OCRText:\"Carrier *9*\", screenShotFile:\"Screen0002.png\", searchType:\"Smooth\", skipStep:0, userModified:0, usingTempImageName:0, waitForTime:-1}, {captureRect:[177.563596, 619, 248.563596, 635], elementName:\"1235AM\", eventNum:4, folderPath:\"\", hotSpot:[212.563596, 8], imageName:\"1235AM\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", OCRText:\"12:35 AM\", screenShotFile:\"Screen0004.png\", searchType:\"Smooth\", skipStep:0, userModified:0, usingTempImageName:0, waitForTime:-1}, {captureRect:[33, 20, 73, 60], elementName:\"image0001\", eventNum:6, folderPath:\"\", hotSpot:[50.565789, 598], imageName:\"image0001\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0006.png\", searchType:\"Tolerant\", skipStep:0, userModified:0, usingTempImageName:0, waitForTime:-1}]";
+    dilations = <*I3>;
+    maxSize = <*I300>;
+    minSize = <*I16>;
+    savedWithEpfVersion = <*I1811052109>;
+    sessionType = turboSession;
+}
