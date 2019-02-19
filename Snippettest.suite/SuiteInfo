@@ -1,1 +1,12 @@
-﻿{EPVersionNumber = 1811052109; Schedules = (); ScriptMetaData = {}; SuiteEncodedTextKey = "7iK9haMTyNRn{F#\\"; helpedSuitesInfo = (); helperSuitesInfo = (); }
+﻿{
+    EPVersionNumber = 1902191108;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "7iK9haMTyNRn{F#\\";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}
